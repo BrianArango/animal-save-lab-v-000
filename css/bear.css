@@ -16,10 +16,3 @@ html {
     left: 800px;
   }
 }
-
-@media only screen and (width: 800px) {
-  #ostrich {
-    top: 200px;
-    left: 1600px;
-  }
-}
